@@ -2,8 +2,6 @@
 Two Pointer Technique Examples
 
 This module demonstrates various categories of the two-pointer technique with examples.
-Each function includes a detailed docstring explaining the problem statement, the category of the two-pointer technique,
-a detailed description of the algorithm, and the time and space complexity analysis.
 """
 
 def two_sum_sorted(arr, target):
